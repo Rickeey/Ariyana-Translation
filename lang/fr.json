@@ -151,7 +151,7 @@
     "funm_log_extra": "Écraser",
     "hide_role_not_config": "Le rôle de masquage n'est pas configuré.\nUtilisez: `{prefix}setup rolehide <rôle>`",
     "hide_role_missing": "Vous avez besoin du rôle {role} pour masquer le salon.",
-    "hide_success": "Salon vocal **Masqué**.",
+    "hide_success": "Le Salon vocal **Masqué**.",
     "hide_error": "Échec du masquage du salon vocal.",
     "hide_log_action": "Salon Vocal Masqué",
       "tunlock_success": "{user} : Le **chat du salon vocal** a été déverrouillé (restauré par défaut).",
