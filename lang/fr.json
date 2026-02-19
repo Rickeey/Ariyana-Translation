@@ -354,5 +354,22 @@
     "kick_role_none": "{emoji} {user}: Aucun membre avec {role} n’est dans le salon vocal.",
     "kick_role_success": "{emoji} {user}: **{count}** membre(s) avec le rôle **{role}** ont été expulsés du salon vocal.",
     "panel_title": "# Panneau de configuration vocal",
-    "panel_desc": "Utilisez les boutons ci-dessous pour gérer votre salon vocal."
+    "panel_desc": "Utilisez les boutons ci-dessous pour gérer votre salon vocal.",
+    "cmds_no_perm": "{emoji} Tu n'as pas la permission d'utiliser cette commande.",
+    "cmds_help": "# ⚙️ Gestion des commandes\n\n**Utilisation :**\n> `.v commands list`\n> `.v commands disable <nomCommande>`\n> `.v commands enable <nomCommande>`\n> `.v commands reset`\n\n**Exemples :**\n> `.v commands disable lock`\n> `.v commands enable lock`\n> `.v commands list`\n\nℹ️ Tu peux utiliser le nom de commande ou un alias.",
+    "cmds_error_load": "{emoji} Impossible de charger la configuration du serveur.",
+    "cmds_list": "# 🚫 Commandes désactivées\n\n{list}\n\n**Astuce :** Active avec `.v commands enable <nom>`",
+    "cmds_list_empty": "`Aucune commande désactivée.`",
+    "cmds_reset_ok": "{emoji} Toutes les commandes sont maintenant activées.",
+    "cmds_reset_failed": "{emoji} Impossible de réinitialiser les commandes désactivées.",
+    "cmds_disable_usage": "## Désactiver une commande\nUtilisation :\n\n> `.v commands disable <nomCommande>`",
+    "cmds_enable_usage": "## Activer une commande\nUtilisation :\n\n> `.v commands enable <nomCommande>`",
+    "cmds_already_disabled": "{emoji} Cette commande est déjà désactivée : `{cmd}`",
+    "cmds_not_disabled": "{emoji} Cette commande n'est pas désactivée : `{cmd}`",
+    "cmds_disable_ok": "{emoji} Commande désactivée : `{cmd}`",
+    "cmds_disable_failed": "{emoji} Échec de la désactivation de la commande.",
+    "cmds_enable_ok": "{emoji} Commande activée : `{cmd}`",
+    "cmds_enable_failed": "{emoji} Échec de l'activation de la commande.",
+    "command_disabled": "{emoji} Cette commande est désactivée dans ce serveur."
+
 }

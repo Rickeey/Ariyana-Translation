@@ -354,5 +354,22 @@
     "kick_role_none": "{emoji} {user}: No members with {role} are in the voice channel.",
     "kick_role_success": "{emoji} {user}: Kicked **{count}** member(s) with role **{role}** from the voice channel.",
     "panel_title": "# Voice Channel Control Panel",
-    "panel_desc": "Use the buttons below to manage your voice channel."
+    "panel_desc": "Use the buttons below to manage your voice channel.",
+    "cmds_no_perm": "{emoji} You don't have permission to use this command.",
+    "cmds_help": "# ⚙️ Commands Manager\n\n**Usage:**\n> `.v commands list`\n> `.v commands disable <commandName>`\n> `.v commands enable <commandName>`\n> `.v commands reset`\n\n**Examples:**\n> `.v commands disable lock`\n> `.v commands enable lock`\n> `.v commands list`\n\nℹ️ You can type the command name or any alias.",
+    "cmds_error_load": "{emoji} Failed to load guild settings.",
+    "cmds_list": "# 🚫 Disabled Commands\n\n{list}\n\n**Tip:** Enable with `.v commands enable <name>`",
+    "cmds_list_empty": "`No disabled commands.`",
+    "cmds_reset_ok": "{emoji} All commands are now enabled.",
+    "cmds_reset_failed": "{emoji} Failed to reset disabled commands.",
+    "cmds_disable_usage": "## Disable Command\nUsage:\n\n> `.v commands disable <commandName>`",
+    "cmds_enable_usage": "## Enable Command\nUsage:\n\n> `.v commands enable <commandName>`",
+    "cmds_already_disabled": "{emoji} This command is already disabled: `{cmd}`",
+    "cmds_not_disabled": "{emoji} This command is not disabled: `{cmd}`",
+    "cmds_disable_ok": "{emoji} Disabled command: `{cmd}`",
+    "cmds_disable_failed": "{emoji} Failed to disable command.",
+    "cmds_enable_ok": "{emoji} Enabled command: `{cmd}`",
+    "cmds_enable_failed": "{emoji} Failed to enable command.",
+    "command_disabled": "{emoji} This command is disabled in this server."
+
 }

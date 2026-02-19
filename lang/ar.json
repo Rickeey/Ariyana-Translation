@@ -354,5 +354,22 @@
     "kick_role_none": "{emoji} {user}: ما كاين حتى شي واحد برول {role} داخل فالروم.",
     "kick_role_success": "{emoji} {user}: خرجت **{count}** واحد/وحدة عندو رول **{role}** من الروم الصوتي.",
     "panel_title": "# لوحة تحكم الغرفة الصوتية",
-    "panel_desc": "استخدم الأزرار أدناه لإدارة غرفتك الصوتية."
+    "panel_desc": "استخدم الأزرار أدناه لإدارة غرفتك الصوتية.",
+    "cmds_no_perm": "{emoji} ماعندكش الصلاحية باش تستعمل هاد الأمر.",
+    "cmds_help": "# ⚙️ إدارة الأوامر\n\n**الإستعمال:**\n> `.v commands list`\n> `.v commands disable <اسم_الأمر>`\n> `.v commands enable <اسم_الأمر>`\n> `.v commands reset`\n\n**أمثلة:**\n> `.v commands disable lock`\n> `.v commands enable lock`\n> `.v commands list`\n\nℹ️ تقدر تكتب اسم الأمر ولا أي alias ديالو.",
+    "cmds_error_load": "{emoji} ماقدرتش نحمّل إعدادات السيرفر.",
+    "cmds_list": "# 🚫 الأوامر المعطلة\n\n{list}\n\n**ملاحظة:** فعل الأمر بـ `.v commands enable <name>`",
+    "cmds_list_empty": "`ماكاين حتى أمر معطل.`",
+    "cmds_reset_ok": "{emoji} دابا جميع الأوامر ولات مفعلة.",
+    "cmds_reset_failed": "{emoji} ماقدرتش نصفر الأوامر المعطلة.",
+    "cmds_disable_usage": "## تعطيل أمر\nالإستعمال:\n\n> `.v commands disable <اسم_الأمر>`",
+    "cmds_enable_usage": "## تفعيل أمر\nالإستعمال:\n\n> `.v commands enable <اسم_الأمر>`",
+    "cmds_already_disabled": "{emoji} هاد الأمر راه معطل من قبل: `{cmd}`",
+    "cmds_not_disabled": "{emoji} هاد الأمر ماشي معطل: `{cmd}`",
+    "cmds_disable_ok": "{emoji} تم تعطيل الأمر: `{cmd}`",
+    "cmds_disable_failed": "{emoji} فشل تعطيل الأمر.",
+    "cmds_enable_ok": "{emoji} تم تفعيل الأمر: `{cmd}`",
+    "cmds_enable_failed": "{emoji} فشل تفعيل الأمر.",
+    "command_disabled": "{emoji} هاد الأمر معطّل فهاد السيرفر."
+
 }
