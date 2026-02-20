@@ -353,7 +353,7 @@
     "kick_member_failed": "{emoji} {user}: Failed to kick {target}.",
     "kick_role_none": "{emoji} {user}: No members with {role} are in the voice channel.",
     "kick_role_success": "{emoji} {user}: Kicked **{count}** member(s) with role **{role}** from the voice channel.",
-    "panel_title": "# Voice Channel Control Panel",
+    "panel_title": "# Ariyana Interface",
     "panel_desc": "Use the buttons below to manage your voice channel.",
     "cmds_no_perm": "{emoji} You don't have permission to use this command.",
     "cmds_help": "# ⚙️ Commands Manager\n\n**Usage:**\n> `.v commands list`\n> `.v commands disable <commandName>`\n> `.v commands enable <commandName>`\n> `.v commands reset`\n\n**Examples:**\n> `.v commands disable lock`\n> `.v commands enable lock`\n> `.v commands list`\n\nℹ️ You can type the command name or any alias.",
