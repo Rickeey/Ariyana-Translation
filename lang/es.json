@@ -331,7 +331,7 @@
     "setup_name_failed": "{emoji} Error al guardar la configuración.",
     "setup_name_ok": "{emoji} El nombre del canal ha sido cambiado con éxito.\n- Nuevo nombre: `{name}`",
     "setup_reset_failed": "{emoji} Error al restablecer la configuración.",
-    "setup_reset_ok": "{emoji} La configuración de Temp Voice ha sido **restablecida** con éxito.\n- Prefijo: `.v`\n- Idioma: `en`\n- Join To Create: `No configurado`\n- Categoría Backup: `No configurado`\n- Canal de Logs: `No configurado`\n- Roles Staff: `No configurado`\n- Rejected Tap: `No configurado`\n- Rol Ocultar: `No configurado`\n- Rol Evento: `No configurado`\n- Nombre default: `{user}'s Room`\n- Tema: `{hex}`",
+    "setup_reset_ok": "# {emoji} La configuración de Temp Voice ha sido **restablecida** con éxito.\n- Prefijo: `.v`\n- Idioma: `en`\n- Join To Create: `No configurado`\n- Categoría Backup: `No configurado`\n- Canal de Logs: `No configurado`\n- Roles Staff: `No configurado`\n- Rejected Tap: `No configurado`\n- Rol Ocultar: `No configurado`\n- Rol Evento: `No configurado`\n- Nombre default: `{user}'s Room`\n- Tema: `{hex}`",
     "permall_success": "Permisos concedidos a todos los miembros.",
     "permall_error": "❌ Error al conceder los permisos.",
     "permall_log_action": "Permisos concedidos a todos los miembros",
@@ -376,6 +376,7 @@
     "setup_autosetup_interface_fail": "{emoji} Error al crear el canal de texto **interface**.",
     "setup_autosetup_jtc_fail": "{emoji} Error al crear el canal de voz **Join To Create**.",
     "setup_autosetup_save_fail": "{emoji} Los canales fueron creados pero no se pudieron guardar los ajustes en la base de datos.",
-    "setup_autosetup_ok_but_panel_failed": "{emoji} Configuración automática completada ✅\n\n- Categoría: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} No pude enviar el panel mediante webhook. Asegúrate de que tenga el permiso **Gestionar Webhooks**.",
-    "setup_autosetup_ok": "{emoji} Configuración automática completada ✅\n\n- Categoría: **{cat}**\n- Interface: {iface}\n- Panel: enviado mediante webhook\n- Join To Create: {jtc} (límite: `1`)\n\n{emoji2} `jointocreatechannel` guardado correctamente."
+    "setup_autosetup_ok_but_panel_failed": "# {emoji} Configuración automática completada ✅\n\n- Categoría: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} No pude enviar el panel mediante webhook. Asegúrate de que tenga el permiso **Gestionar Webhooks**.",
+    "setup_autosetup_ok": "# {emoji} Configuración automática completada ✅\n\n- Categoría: **{cat}**\n- Interface: {iface}\n- Panel: enviado mediante webhook\n- Join To Create: {jtc} (límite: `1`)\n\n`jointocreatechannel` guardado correctamente.",
+    "setup_autosetup_already": "# {emoji} La configuración automática ya está activada.\n\n- Categoría: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}"
 }

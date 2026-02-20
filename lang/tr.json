@@ -331,7 +331,7 @@
     "setup_name_failed": "{emoji} Ayarlar kaydedilemedi.",
     "setup_name_ok": "{emoji} Kanal ismi şablonu güncellendi.\n- Yeni Şablon: `{name}`",
     "setup_reset_failed": "{emoji} Sıfırlama başarısız.",
-    "setup_reset_ok": "{emoji} Geçici ses kurulumu başarıyla **sıfırlandı**.",
+    "setup_reset_ok": "# {emoji} Geçici ses kurulumu başarıyla **sıfırlandı**.",
     "permall_success": "Tüm üyelere izinler verildi.",
     "permall_error": "❌ İzinler verilirken hata oluştu.",
     "permall_log_action": "Tüm Üyelere İzin Verildi",
@@ -372,6 +372,7 @@
     "setup_autosetup_interface_fail": "{emoji} **interface** metin kanalı oluşturulamadı.",
     "setup_autosetup_jtc_fail": "{emoji} **Join To Create** ses kanalı oluşturulamadı.",
     "setup_autosetup_save_fail": "{emoji} Kanallar oluşturuldu ancak ayarlar veritabanına kaydedilemedi.",
-    "setup_autosetup_ok_but_panel_failed": "{emoji} Otomatik kurulum tamamlandı ✅\n\n- Kategori: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} Panel webhook ile gönderilemedi. **Webhook'ları Yönet** iznine sahip olduğumdan emin olun.",
-    "setup_autosetup_ok": "{emoji} Otomatik kurulum tamamlandı ✅\n\n- Kategori: **{cat}**\n- Interface: {iface}\n- Panel: webhook ile gönderildi\n- Join To Create: {jtc} (limit: `1`)\n\n{emoji2} `jointocreatechannel` başarıyla kaydedildi."
+    "setup_autosetup_ok_but_panel_failed": "# {emoji} Otomatik kurulum tamamlandı ✅\n\n- Kategori: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} Panel webhook ile gönderilemedi. **Webhook'ları Yönet** iznine sahip olduğumdan emin olun.",
+    "setup_autosetup_ok": "# {emoji} Otomatik kurulum tamamlandı ✅\n\n- Kategori: **{cat}**\n- Interface: {iface}\n- Panel: webhook ile gönderildi\n- Join To Create: {jtc} (limit: `1`)\n\n`jointocreatechannel` başarıyla kaydedildi.",
+    "setup_autosetup_already": "# {emoji} Otomatik kurulum zaten yapılandırılmış.\n\n- Kategori: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}"
 }

@@ -331,7 +331,7 @@
     "setup_name_failed": "{emoji} Fehler beim Speichern der Einstellungen.",
     "setup_name_ok": "{emoji} Kanalname erfolgreich geändert.\n- Neuer Name: `{name}`",
     "setup_reset_failed": "{emoji} Fehler beim Zurücksetzen der Einstellungen.",
-    "setup_reset_ok": "{emoji} Temp Voice Setup wurde erfolgreich **zurückgesetzt**.\n- Präfix: `.v`\n- Sprache: `en` (Standard)\n- Default Name: `{user}'s Room`",
+    "setup_reset_ok": "# {emoji} Temp Voice Setup wurde erfolgreich **zurückgesetzt**.\n- Präfix: `.v`\n- Sprache: `en` (Standard)\n- Default Name: `{user}'s Room`",
     "permall_success": "Berechtigungen an alle Mitglieder vergeben.",
     "permall_error": "❌ Fehler beim Vergeben der Berechtigungen.",
     "permall_log_action": "Berechtigungen an alle Mitglieder vergeben",
@@ -376,6 +376,7 @@
     "setup_autosetup_interface_fail": "{emoji} Textkanal **interface** konnte nicht erstellt werden.",
     "setup_autosetup_jtc_fail": "{emoji} Sprachkanal **Join To Create** konnte nicht erstellt werden.",
     "setup_autosetup_save_fail": "{emoji} Die Kanäle wurden erstellt, aber die Einstellungen konnten nicht in der Datenbank gespeichert werden.",
-    "setup_autosetup_ok_but_panel_failed": "{emoji} Automatische Einrichtung abgeschlossen ✅\n\n- Kategorie: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} Das Panel konnte nicht per Webhook gesendet werden. Stelle sicher, dass ich die Berechtigung **Webhooks verwalten** habe.",
-    "setup_autosetup_ok": "{emoji} Automatische Einrichtung abgeschlossen ✅\n\n- Kategorie: **{cat}**\n- Interface: {iface}\n- Panel: per Webhook gesendet\n- Join To Create: {jtc} (Limit: `1`)\n\n{emoji2} `jointocreatechannel` erfolgreich gespeichert."
+    "setup_autosetup_ok_but_panel_failed": "# {emoji} Automatische Einrichtung abgeschlossen ✅\n\n- Kategorie: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} Das Panel konnte nicht per Webhook gesendet werden. Stelle sicher, dass ich die Berechtigung **Webhooks verwalten** habe.",
+    "setup_autosetup_ok": "# {emoji} Automatische Einrichtung abgeschlossen ✅\n\n- Kategorie: **{cat}**\n- Interface: {iface}\n- Panel: per Webhook gesendet\n- Join To Create: {jtc} (Limit: `1`)\n\n`jointocreatechannel` erfolgreich gespeichert.",
+    "setup_autosetup_already": "# {emoji} Die automatische Einrichtung ist bereits konfiguriert.\n\n- Kategorie: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}"
 }

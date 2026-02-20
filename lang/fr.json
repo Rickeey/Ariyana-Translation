@@ -331,7 +331,7 @@
     "setup_name_failed": "{emoji} Échec de l'enregistrement.",
     "setup_name_ok": "{emoji} Nom par défaut mis à jour.\n- Nouveau nom : `{name}`",
     "setup_reset_failed": "{emoji} Échec de la réinitialisation.",
-    "setup_reset_ok": "{emoji} Configuration Temp Voice **réinitialisée**.\n- Préfixe: `.v`\n- Langue: `en`\n- Join To Create: `Not set`\n- Backup Category: `Not set`\n- Task Log Channel: `Not set`\n- Staff Roles: `Not set`\n- Rejected Tap: `Not set`\n- Hide Role: `Not set`\n- Event Role: `Not set`\n- Default Name: `{user}'s Room`\n- Theme: `{hex}`",
+    "setup_reset_ok": "# {emoji} Configuration Temp Voice **réinitialisée**.\n- Préfixe: `.v`\n- Langue: `en`\n- Join To Create: `Not set`\n- Backup Category: `Not set`\n- Task Log Channel: `Not set`\n- Staff Roles: `Not set`\n- Rejected Tap: `Not set`\n- Hide Role: `Not set`\n- Event Role: `Not set`\n- Default Name: `{user}'s Room`\n- Theme: `{hex}`",
     "permall_success": "Permissions accordées à tous les membres.",
     "permall_error": "❌ Échec de l’attribution des permissions.",
     "permall_log_action": "Permissions accordées à tous les membres",
@@ -376,6 +376,7 @@
     "setup_autosetup_interface_fail": "{emoji} Échec de la création du salon texte **interface**.",
     "setup_autosetup_jtc_fail": "{emoji} Échec de la création du salon vocal **Join To Create**.",
     "setup_autosetup_save_fail": "{emoji} Les salons ont été créés mais je n'ai pas pu enregistrer les paramètres dans la base de données.",
-    "setup_autosetup_ok_but_panel_failed": "{emoji} Configuration automatique terminée ✅\n\n- Catégorie : **{cat}**\n- Interface : {iface}\n- Join To Create : {jtc}\n\n{warn} Impossible d’envoyer le panneau via webhook. Assurez-vous que j’ai la permission **Gérer les webhooks**.",
-    "setup_autosetup_ok": "{emoji} Configuration automatique terminée ✅\n\n- Catégorie : **{cat}**\n- Interface : {iface}\n- Panneau : envoyé via webhook\n- Join To Create : {jtc} (limite : `1`)\n\n{emoji2} `jointocreatechannel` enregistré avec succès."
+    "setup_autosetup_ok_but_panel_failed": "# {emoji} Configuration automatique terminée ✅\n\n- Catégorie : **{cat}**\n- Interface : {iface}\n- Join To Create : {jtc}\n\n{warn} Impossible d’envoyer le panneau via webhook. Assurez-vous que j’ai la permission **Gérer les webhooks**.",
+    "setup_autosetup_ok": "# {emoji} Configuration automatique terminée ✅\n\n- Catégorie : **{cat}**\n- Interface : {iface}\n- Panneau : envoyé via webhook\n- Join To Create : {jtc} (limite : `1`)\n\n`jointocreatechannel` enregistré avec succès.",
+    "setup_autosetup_already": "# {emoji} La configuration automatique est déjà en place.\n\n- Catégorie : **{cat}**\n- Interface : {iface}\n- Join To Create : {jtc}"
 }

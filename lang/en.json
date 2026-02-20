@@ -331,7 +331,7 @@
     "setup_name_failed": "{emoji} Failed to save settings.",
     "setup_name_ok": "{emoji} Successfully changed the Channel Name\n- New Channel Name `{name}`",
     "setup_reset_failed": "{emoji} Failed to reset settings.",
-    "setup_reset_ok": "{emoji} Temp Voice setup has been **reset** successfully.\n- Prefix: `.v`\n- Language: `en`\n- Join To Create: `Not set`\n- Backup Category: `Not set`\n- Task Log Channel: `Not set`\n- Staff Roles: `Not set`\n- Rejected Tap: `Not set`\n- Hide Role: `Not set`\n- Event Role: `Not set`\n- Default Name: `{user}'s Room`\n- Theme: `{hex}`",
+    "setup_reset_ok": "# {emoji} Temp Voice setup has been **reset** successfully.\n- Prefix: `.v`\n- Language: `en`\n- Join To Create: `Not set`\n- Backup Category: `Not set`\n- Task Log Channel: `Not set`\n- Staff Roles: `Not set`\n- Rejected Tap: `Not set`\n- Hide Role: `Not set`\n- Event Role: `Not set`\n- Default Name: `{user}'s Room`\n- Theme: `{hex}`",
     "permall_success": "Permissions granted to all members.",
     "permall_error": "❌ Failed to grant permissions.",
     "permall_log_action": "Permissions Granted To All Members",
@@ -377,5 +377,6 @@
     "setup_autosetup_jtc_fail": "{emoji} Failed to create the voice channel **Join To Create**.",
     "setup_autosetup_save_fail": "{emoji} Channels were created but I couldn't save the settings to the database.",
     "setup_autosetup_ok_but_panel_failed": "{emoji} Auto setup completed ✅\n\n- Category: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} I couldn't send the panel via webhook. Make sure I have **Manage Webhooks** permission.",
-    "setup_autosetup_ok": "{emoji} Auto setup completed ✅\n\n- Category: **{cat}**\n- Interface: {iface}\n- Panel: sent via webhook\n- Join To Create: {jtc} (limit: `1`)\n\n{emoji2} Saved `jointocreatechannel` successfully."
+    "setup_autosetup_ok": "# {emoji} Auto setup completed ✅\n\n- Category: **{cat}**\n- Interface: {iface}\n- Panel: sent via webhook\n- Join To Create: {jtc} (limit: `1`)\n\nSaved `jointocreatechannel` successfully.",
+    "setup_autosetup_already": "# {emoji} Auto setup is already configured.\n\n- Category: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}"
 }
