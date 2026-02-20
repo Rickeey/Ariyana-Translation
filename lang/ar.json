@@ -370,6 +370,14 @@
     "cmds_disable_failed": "{emoji} فشل تعطيل الأمر.",
     "cmds_enable_ok": "{emoji} تم تفعيل الأمر: `{cmd}`",
     "cmds_enable_failed": "{emoji} فشل تفعيل الأمر.",
-    "command_disabled": "{emoji} هاد الأمر معطّل فهاد السيرفر."
-
+    "command_disabled": "{emoji} هاد الأمر معطّل فهاد السيرفر.",
+    "setup_autosetup_missing_perms": "{emoji} لا أستطيع تشغيل الإعداد التلقائي.\nالصلاحيات الناقصة: `{perms}`",
+    "setup_autosetup_category_fail": "{emoji} فشل إنشاء الفئة **Ariyana ✨**.",
+    "setup_autosetup_interface_fail": "{emoji} فشل إنشاء قناة النص **interface**.",
+    "setup_autosetup_jtc_fail": "{emoji} فشل إنشاء قناة الصوت **Join To Create**.",
+    "setup_autosetup_save_fail": "{emoji} تم إنشاء القنوات لكن تعذّر حفظ الإعدادات في قاعدة البيانات.",
+    "setup_autosetup_ok_but_panel_failed": "{emoji} تم الإعداد التلقائي بنجاح ✅\n\n- الفئة: **{cat}**\n- الواجهة: {iface}\n- قناة إنشاء الغرفة: {jtc}\n\n{warn} لم أستطع إرسال لوحة التحكم عبر الـ Webhook. تأكد أن لدي صلاحية **Manage Webhooks**.",
+    "setup_autosetup_ok": "{emoji} تم الإعداد التلقائي بنجاح ✅\n\n- الفئة: **{cat}**\n- الواجهة: {iface}\n- اللوحة: تم إرسالها عبر Webhook\n- قناة إنشاء الغرفة: {jtc} (الحد: `1`)\n\n{emoji2} تم حفظ `jointocreatechannel` بنجاح."
 }
+
+

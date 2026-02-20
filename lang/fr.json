@@ -370,6 +370,12 @@
     "cmds_disable_failed": "{emoji} Échec de la désactivation de la commande.",
     "cmds_enable_ok": "{emoji} Commande activée : `{cmd}`",
     "cmds_enable_failed": "{emoji} Échec de l'activation de la commande.",
-    "command_disabled": "{emoji} Cette commande est désactivée dans ce serveur."
-
+    "command_disabled": "{emoji} Cette commande est désactivée dans ce serveur.",
+    "setup_autosetup_missing_perms": "{emoji} Je ne peux pas lancer la configuration automatique.\nPermissions manquantes : `{perms}`",
+    "setup_autosetup_category_fail": "{emoji} Échec de la création de la catégorie **Ariyana ✨**.",
+    "setup_autosetup_interface_fail": "{emoji} Échec de la création du salon texte **interface**.",
+    "setup_autosetup_jtc_fail": "{emoji} Échec de la création du salon vocal **Join To Create**.",
+    "setup_autosetup_save_fail": "{emoji} Les salons ont été créés mais je n'ai pas pu enregistrer les paramètres dans la base de données.",
+    "setup_autosetup_ok_but_panel_failed": "{emoji} Configuration automatique terminée ✅\n\n- Catégorie : **{cat}**\n- Interface : {iface}\n- Join To Create : {jtc}\n\n{warn} Impossible d’envoyer le panneau via webhook. Assurez-vous que j’ai la permission **Gérer les webhooks**.",
+    "setup_autosetup_ok": "{emoji} Configuration automatique terminée ✅\n\n- Catégorie : **{cat}**\n- Interface : {iface}\n- Panneau : envoyé via webhook\n- Join To Create : {jtc} (limite : `1`)\n\n{emoji2} `jointocreatechannel` enregistré avec succès."
 }

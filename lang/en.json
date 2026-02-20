@@ -370,6 +370,12 @@
     "cmds_disable_failed": "{emoji} Failed to disable command.",
     "cmds_enable_ok": "{emoji} Enabled command: `{cmd}`",
     "cmds_enable_failed": "{emoji} Failed to enable command.",
-    "command_disabled": "{emoji} This command is disabled in this server."
-
+    "command_disabled": "{emoji} This command is disabled in this server.",
+    "setup_autosetup_missing_perms": "{emoji} I can't run auto setup.\nMissing permissions: `{perms}`",
+    "setup_autosetup_category_fail": "{emoji} Failed to create category **Ariyana ✨**.",
+    "setup_autosetup_interface_fail": "{emoji} Failed to create the text channel **interface**.",
+    "setup_autosetup_jtc_fail": "{emoji} Failed to create the voice channel **Join To Create**.",
+    "setup_autosetup_save_fail": "{emoji} Channels were created but I couldn't save the settings to the database.",
+    "setup_autosetup_ok_but_panel_failed": "{emoji} Auto setup completed ✅\n\n- Category: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} I couldn't send the panel via webhook. Make sure I have **Manage Webhooks** permission.",
+    "setup_autosetup_ok": "{emoji} Auto setup completed ✅\n\n- Category: **{cat}**\n- Interface: {iface}\n- Panel: sent via webhook\n- Join To Create: {jtc} (limit: `1`)\n\n{emoji2} Saved `jointocreatechannel` successfully."
 }

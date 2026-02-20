@@ -370,5 +370,12 @@
     "cmds_disable_failed": "{emoji} Fehler beim Deaktivieren.",
     "cmds_enable_ok": "{emoji} Befehl aktiviert: `{cmd}`",
     "cmds_enable_failed": "{emoji} Fehler beim Aktivieren.",
-    "command_disabled": "{emoji} Dieser Befehl ist auf diesem Server deaktiviert."
+    "command_disabled": "{emoji} Dieser Befehl ist auf diesem Server deaktiviert.",
+    "setup_autosetup_missing_perms": "{emoji} Ich kann die automatische Einrichtung nicht starten.\nFehlende Berechtigungen: `{perms}`",
+    "setup_autosetup_category_fail": "{emoji} Kategorie **Ariyana ✨** konnte nicht erstellt werden.",
+    "setup_autosetup_interface_fail": "{emoji} Textkanal **interface** konnte nicht erstellt werden.",
+    "setup_autosetup_jtc_fail": "{emoji} Sprachkanal **Join To Create** konnte nicht erstellt werden.",
+    "setup_autosetup_save_fail": "{emoji} Die Kanäle wurden erstellt, aber die Einstellungen konnten nicht in der Datenbank gespeichert werden.",
+    "setup_autosetup_ok_but_panel_failed": "{emoji} Automatische Einrichtung abgeschlossen ✅\n\n- Kategorie: **{cat}**\n- Interface: {iface}\n- Join To Create: {jtc}\n\n{warn} Das Panel konnte nicht per Webhook gesendet werden. Stelle sicher, dass ich die Berechtigung **Webhooks verwalten** habe.",
+    "setup_autosetup_ok": "{emoji} Automatische Einrichtung abgeschlossen ✅\n\n- Kategorie: **{cat}**\n- Interface: {iface}\n- Panel: per Webhook gesendet\n- Join To Create: {jtc} (Limit: `1`)\n\n{emoji2} `jointocreatechannel` erfolgreich gespeichert."
 }
