@@ -18,13 +18,13 @@
     "unlock_success": "تم **فتح** الغرفة الصوتية.",
     "unlock_log_action": "تم فتح الغرفة الصوتية",
     "unlock_error_generic": "{user}: فشل في فتح الغرفة.",
-    "activity_arg_error": "يجب عليك تحديد `on` أو `off`.",
+    "activity_arg_error": "# أمر Activity\n\nطريقة الاستعمال:\n`{prefix}activity <on/off>`",
     "activity_success_enabled": "تم **تفعيل** الأنشطة في **الغرفة الصوتية**.",
     "activity_success_disabled": "تم **تعطيل** الأنشطة في **الغرفة الصوتية**.",
     "activity_log_action_enabled": "تم تفعيل الأنشطة",
     "activity_log_action_disabled": "تم تعطيل الأنشطة",
     "activity_error_generic": "{user}: فشل في تغيير إعدادات الأنشطة.",
-    "cam_arg_error": "يجب عليك تحديد `on` أو `off`.",
+    "cam_arg_error": "# أمر Cam\n\nطريقة الاستعمال:\n`{prefix}cam <on/off>`",
     "cam_success_enabled": "تم **تفعيل** صلاحيات الفيديو والبث.",
     "cam_success_disabled": "تم **تعطيل** صلاحيات الفيديو والبث.",
     "cam_log_action_enabled": "تم تفعيل الفيديو / البث",
@@ -378,7 +378,19 @@
     "setup_autosetup_save_fail": "{emoji} تم إنشاء القنوات لكن تعذّر حفظ الإعدادات في قاعدة البيانات.",
     "setup_autosetup_ok_but_panel_failed": "# {emoji} تم الإعداد التلقائي بنجاح ✅\n\n- الفئة: **{cat}**\n- الواجهة: {iface}\n- قناة إنشاء الغرفة: {jtc}\n\n{warn} لم أستطع إرسال اللوحة عبر Webhook. تأكد أن لدي صلاحية **إدارة Webhooks**.",
     "setup_autosetup_ok": "# {emoji} تم الإعداد التلقائي بنجاح ✅\n\n- الفئة: **{cat}**\n- الواجهة: {iface}\n- اللوحة: تم إرسالها عبر Webhook\n- قناة إنشاء الغرفة: {jtc} (الحد: `1`)\n\nتم حفظ `jointocreatechannel` بنجاح.",
-    "setup_autosetup_already": "# {emoji} الإعداد التلقائي مُفعّل بالفعل.\n\n- الفئة: **{cat}**\n- الواجهة: {iface}\n- قناة إنشاء الغرفة: {jtc}"
+    "setup_autosetup_already": "# {emoji} الإعداد التلقائي مُفعّل بالفعل.\n\n- الفئة: **{cat}**\n- الواجهة: {iface}\n- قناة إنشاء الغرفة: {jtc}",
+    "task_no_staffrole": "{emoji} لا تملك **رتبة الإدارة** المطلوبة لاستخدام هذا الأمر.",
+    "task_not_enough_members": "{emoji} يجب أن يكون هناك ما لا يقل عن **{min}** أعضاء في الروم الصوتي.",
+    "task_no_log_channel": "{emoji} لم يتم إعداد روم سجل المهام. اطلب من مسؤول استخدام `.v setup log <channel>`.",
+    "task_log_channel_not_found": "{emoji} لم يتم العثور على روم سجل المهام.",
+    "task_success": "تم تسجيل مهمتك بنجاح.",
+    "task_error_generic": "فشل في تسجيل المهمة. يرجى التأكد من أن لدي صلاحية إرسال الرسائل في روم السجل.",
+    "task_embed_users": "**• الأعضاء في {channel} - {count}**",
+    "task_embed_owner_channel": "روم المالك:",
+    "task_embed_staff": "الإدارة:",
+    "task_embed_task_by": "المهمة بواسطة:",
+    "task_embed_one_tap_name": "اسم One Tap:",
+    "task_embed_created_at": "تمت الإنشاء:",
+    "task_embed_time": "الوقت:",
+    "task_embed_footer": "مهمة One Tap بواسطة {user}"
 }
-
-
