@@ -407,7 +407,9 @@
   "mystats_none": "Keine",
   "mystats_tip": "Tipp",
   "mystats_bots_no_stats": "Bots haben keine persönlichen Statistiken.",
-
+  "mystats_user_not_found": "Benutzer nicht gefunden.",
+  "mystats_user_not_found_desc": "Versuche: Erwähnung, ID oder Benutzername.",
+  "mystats_user_not_found_tip": "Beispiel: `{prefix}mystats @user` oder `{prefix}mystats id`",
   "vip_active_short": "VIP Aktiv",
   "vip_inactive_short": "VIP Inaktiv",
   "vip_tip_buy": "Verwende {prefix}vip, um deine Abonnement-Informationen zu sehen."

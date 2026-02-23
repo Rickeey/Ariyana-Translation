@@ -403,7 +403,9 @@
   "mystats_none": "Yok",
   "mystats_tip": "İpucu",
   "mystats_bots_no_stats": "Botların kişisel istatistikleri yoktur.",
-
+  "mystats_user_not_found": "Kullanıcı bulunamadı.",
+  "mystats_user_not_found_desc": "Deneyin: etiket, ID veya kullanıcı adı.",
+  "mystats_user_not_found_tip": "Örnek: `{prefix}mystats @user` veya `{prefix}mystats id`",
   "vip_active_short": "VIP Aktif",
   "vip_inactive_short": "VIP Pasif",
   "vip_tip_buy": "{prefix}vip komutunu kullanarak abonelik bilgilerinizi görüntüleyin."
