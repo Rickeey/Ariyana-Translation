@@ -392,5 +392,24 @@
     "task_embed_one_tap_name": "Nom One Tap:",
     "task_embed_created_at": "Créé Le:",
     "task_embed_time": "Temps:",
-    "task_embed_footer": "Tâche One Tap par {user}"
+    "task_embed_footer": "Tâche One Tap par {user}",
+  "mystats_title": "Statistiques de {user}",
+  "mystats_total_used": "Utilisation Totale",
+  "mystats_unique_cmds": "Commandes Uniques",
+  "mystats_most_used": "Le Plus Utilisé",
+  "mystats_last_used": "Dernière Utilisation",
+  "mystats_top_cmds": "Commandes Principales",
+  "mystats_no_data_title": "Aucune Donnée",
+  "mystats_no_data_self": "Vous n'avez aucune utilisation enregistrée. Utilisez quelques commandes d'abord.",
+  "mystats_no_data_other": "{user} n'a aucune utilisation enregistrée.",
+  "mystats_no_cmds": "Aucune commande enregistrée pour le moment.",
+  "mystats_never": "Jamais",
+  "mystats_none": "Aucune",
+  "mystats_tip": "Astuce",
+  "mystats_tip_dev": "Pour des statistiques détaillées, les développeurs peuvent utiliser trackstats.",
+  "mystats_bots_no_stats": "Les bots n'ont pas de statistiques personnelles.",
+
+  "vip_active_short": "VIP Actif",
+  "vip_inactive_short": "VIP Inactif",
+  "vip_tip_buy": "Utilisez {prefix}vip pour voir les informations de votre abonnement."
 }

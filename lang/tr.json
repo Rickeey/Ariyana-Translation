@@ -388,5 +388,24 @@
     "task_embed_one_tap_name": "One Tap Adı:",
     "task_embed_created_at": "Oluşturulma:",
     "task_embed_time": "Zaman:",
-    "task_embed_footer": "{user} Tarafından One Tap Görevi"
+    "task_embed_footer": "{user} Tarafından One Tap Görevi",
+  "mystats_title": "{user} İstatistikleri",
+  "mystats_total_used": "Toplam Kullanım",
+  "mystats_unique_cmds": "Benzersiz Komutlar",
+  "mystats_most_used": "En Çok Kullanılan",
+  "mystats_last_used": "Son Kullanım",
+  "mystats_top_cmds": "En İyi Komutlar",
+  "mystats_no_data_title": "Komut Verisi Yok",
+  "mystats_no_data_self": "Henüz kayıtlı kullanımınız yok. Önce bazı komutlar kullanın.",
+  "mystats_no_data_other": "{user} için henüz kayıtlı kullanım yok.",
+  "mystats_no_cmds": "Henüz komut kaydı yok.",
+  "mystats_never": "Asla",
+  "mystats_none": "Yok",
+  "mystats_tip": "İpucu",
+  "mystats_tip_dev": "Detaylı istatistikler için geliştiriciler trackstats komutunu kullanabilir.",
+  "mystats_bots_no_stats": "Botların kişisel istatistikleri yoktur.",
+
+  "vip_active_short": "VIP Aktif",
+  "vip_inactive_short": "VIP Pasif",
+  "vip_tip_buy": "{prefix}vip komutunu kullanarak abonelik bilgilerinizi görüntüleyin."
 }

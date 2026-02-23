@@ -392,5 +392,24 @@
     "task_embed_one_tap_name": "اسم One Tap:",
     "task_embed_created_at": "تمت الإنشاء:",
     "task_embed_time": "الوقت:",
-    "task_embed_footer": "مهمة One Tap بواسطة {user}"
+    "task_embed_footer": "مهمة One Tap بواسطة {user}",
+  "mystats_title": "إحصائيات {user}",
+  "mystats_total_used": "إجمالي الاستخدام",
+  "mystats_unique_cmds": "عدد الأوامر المختلفة",
+  "mystats_most_used": "الأكثر استخدامًا",
+  "mystats_last_used": "آخر استخدام",
+  "mystats_top_cmds": "أكثر الأوامر استخدامًا",
+  "mystats_no_data_title": "لا توجد بيانات",
+  "mystats_no_data_self": "لا توجد لديك بيانات استخدام بعد. استخدم بعض الأوامر أولاً.",
+  "mystats_no_data_other": "{user} لا يملك أي بيانات استخدام بعد.",
+  "mystats_no_cmds": "لا توجد أوامر مسجلة بعد.",
+  "mystats_never": "أبدًا",
+  "mystats_none": "لا يوجد",
+  "mystats_tip": "نصيحة",
+  "mystats_tip_dev": "لإحصائيات مفصلة يمكن للمطورين استخدام trackstats.",
+  "mystats_bots_no_stats": "البوتات لا تملك إحصائيات شخصية.",
+
+  "vip_active_short": "VIP مفعل",
+  "vip_inactive_short": "VIP غير مفعل",
+  "vip_tip_buy": "استخدم {prefix}vip لعرض معلومات الاشتراك."
 }
