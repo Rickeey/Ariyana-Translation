@@ -299,7 +299,7 @@
     "setup_log_invalid": "{emoji} Bitte gib einen gültigen **Textkanal** an.",
     "setup_log_failed": "{emoji} Fehler beim Speichern des Log-Kanals.",
     "setup_log_ok": "{emoji} Log-Kanal wurde erfolgreich gesetzt.\n- Kanal: {channel}",
-    "setup_staff_usage": "## Staff-Rollen festlegen\nNutzung:\n\n> `.v setup staffroles <@rolle | id> [...]`\n> `.v setup staffroles clear` (leeren)",
+    "setup_staff_usage": "## Staff-Rollen festlegen\nVerwendung:\n\n> `.v setup staffroles add <@role | role_id> [weitere...]`\n> `.v setup staffroles remove <@role | role_id> [weitere...]`\n> `.v setup staffroles set <@role | role_id> [weitere...]`\n> `.v setup staffroles clear`\n\nTipp: Wenn du `.v setup staffroles @Role` benutzt, wird es hinzugefügt (nicht ersetzt).",
     "setup_staff_clear_failed": "{emoji} Fehler beim Leeren der Staff-Rollen.",
     "setup_staff_cleared": "{emoji} Staff-Rollen wurden geleert.",
     "setup_staff_invalid": "{emoji} Bitte erwähne Rollen oder gib gültige Rollen-IDs an.",

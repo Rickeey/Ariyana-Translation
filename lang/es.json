@@ -299,7 +299,7 @@
     "setup_log_invalid": "{emoji} Por favor, indica un **canal de texto** (o hilo) válido.",
     "setup_log_failed": "{emoji} Error al guardar el canal de logs.",
     "setup_log_ok": "{emoji} El canal de logs ha sido configurado con éxito.\n- Canal: {channel}",
-    "setup_staff_usage": "## Configurar Roles de Staff\nUso:\n\n> `.v setup staffroles <@rol | id_rol> [@rol2 ...]`\n> `.v setup staffroles clear` (limpiar)\n\nEjemplo:\n> `.v setup staffroles @Staff @Moderador`",
+    "setup_staff_usage": "## Configurar roles del staff\nUso:\n\n> `.v setup staffroles add <@role | role_id> [más...]`\n> `.v setup staffroles remove <@role | role_id> [más...]`\n> `.v setup staffroles set <@role | role_id> [más...]`\n> `.v setup staffroles clear`\n\nConsejo: Si usas `.v setup staffroles @Role` se agregará (no reemplaza).",
     "setup_staff_clear_failed": "{emoji} Error al limpiar los roles de staff.",
     "setup_staff_cleared": "{emoji} Los roles de staff han sido eliminados.",
     "setup_staff_invalid": "{emoji} Por favor, menciona roles o proporciona IDs de rol válidos.",

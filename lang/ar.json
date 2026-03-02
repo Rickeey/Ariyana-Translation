@@ -299,7 +299,7 @@
     "setup_log_invalid": "{emoji} عطيني **قناة كتابية** صحيحة (ولا thread).",
     "setup_log_failed": "{emoji} فشل حفظ قناة اللّوغات.",
     "setup_log_ok": "{emoji} تم تحديد قناة اللّوغات.\n- القناة: {channel}",
-    "setup_staff_usage": "## تحديد رولات الستاف\nالاستعمال:\n\n> `.v setup staffroles <@role | id> [@role2 | id2 ...]`\n> `.v setup staffroles clear`\n\nمثال:\n> `.v setup staffroles @Staff @Moderator`",
+    "setup_staff_usage": "## إعداد رتب الطاقم\nالاستخدام:\n\n> `.v setup staffroles add <@role | role_id> [المزيد...]`\n> `.v setup staffroles remove <@role | role_id> [المزيد...]`\n> `.v setup staffroles set <@role | role_id> [المزيد...]`\n> `.v setup staffroles clear`\n\nملاحظة: إذا استخدمت `.v setup staffroles @Role` سيتم الإضافة وليس الاستبدال.",
     "setup_staff_clear_failed": "{emoji} فشل مسح رولات الستاف.",
     "setup_staff_cleared": "{emoji} تم مسح رولات الستاف.",
     "setup_staff_invalid": "{emoji} منشن الرولات أو عطيني IDs صحيحة.",

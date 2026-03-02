@@ -299,7 +299,7 @@
     "setup_log_invalid": "{emoji} Merci de fournir un **salon texte** valide (ou thread).",
     "setup_log_failed": "{emoji} Échec de l'enregistrement du salon de logs.",
     "setup_log_ok": "{emoji} Salon de logs défini.\n- Salon : {channel}",
-    "setup_staff_usage": "## Définir les rôles staff\nUtilisation :\n\n> `.v setup staffroles <@role | id> [@role2 | id2 ...]`\n> `.v setup staffroles clear`\n\nExemple :\n> `.v setup staffroles @Staff @Moderator`",
+    "setup_staff_usage": "## Définir les rôles staff\nUtilisation :\n\n> `.v setup staffroles add <@role | role_id> [autres...]`\n> `.v setup staffroles remove <@role | role_id> [autres...]`\n> `.v setup staffroles set <@role | role_id> [autres...]`\n> `.v setup staffroles clear`\n\nAstuce : Si vous utilisez `.v setup staffroles @Role` cela AJOUTE (sans remplacer).",
     "setup_staff_clear_failed": "{emoji} Échec de la suppression des rôles staff.",
     "setup_staff_cleared": "{emoji} Rôles staff supprimés.",
     "setup_staff_invalid": "{emoji} Mentionnez des rôles ou donnez des IDs valides.",

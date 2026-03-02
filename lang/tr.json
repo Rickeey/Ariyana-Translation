@@ -299,7 +299,7 @@
     "setup_log_invalid": "{emoji} Lütfen geçerli bir **metin kanalı** belirt.",
     "setup_log_failed": "{emoji} Kayıt kanalı kaydedilemedi.",
     "setup_log_ok": "{emoji} İşlem günlüğü kanalı ayarlandı.\n- Kanal: {channel}",
-    "setup_staff_usage": "## Yetkili Rolleri\nKullanım: `.v setup staffroles <@rol>`",
+    "setup_staff_usage": "## Yetkili Rolleri Ayarla\nKullanım:\n\n> `.v setup staffroles add <@role | role_id> [daha fazla...]`\n> `.v setup staffroles remove <@role | role_id> [daha fazla...]`\n> `.v setup staffroles set <@role | role_id> [daha fazla...]`\n> `.v setup staffroles clear`\n\nİpucu: `.v setup staffroles @Role` kullanırsan EKLER (üzerine yazmaz).",
     "setup_staff_clear_failed": "{emoji} Yetkili rolleri temizlenemedi.",
     "setup_staff_cleared": "{emoji} Yetkili rolleri temizlendi.",
     "setup_staff_invalid": "{emoji} Lütfen geçerli roller belirt.",
