@@ -340,6 +340,7 @@
     "rename_need_name": "{emoji} Vous devez spécifier un nouveau nom pour le salon vocal.",
     "rename_too_long": "{emoji} Le nom ne peut pas dépasser 100 caractères.",
     "rename_banned": "🚫 Ce nom contient des mots interdits.",
+    "rename_discovery_blocked": "🚫 Ce nom est bloqué par les règles de Découverte des serveurs Discord. Veuillez choisir un autre nom.",
     "rename_rate_limited": "{emoji} {user}: Vous avez atteint la limite Discord pour renommer les salons.\n-# Veuillez attendre `{time}`.",
     "rename_success": "Nom du salon vocal changé de `{old}` à `{new}` avec succès.",
     "rename_failed": "❌ Échec du changement de nom du salon.",

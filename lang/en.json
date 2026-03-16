@@ -343,6 +343,7 @@
     "rename_rate_limited": "{emoji} {user}: You've reached Discord's rate limit for channel renames.\n-# Please wait `{time}`.",
     "rename_success": "Successfully changed the voice channel name from `{old}` to `{new}`.",
     "rename_failed": "❌ Failed to rename channel.",
+    "rename_discovery_blocked": "🚫 This name is blocked by Discord Server Discovery rules. Please choose a different name.",
     "limit_usage": "# Limit Command\n\nUsage:\n`{prefix}limit <0-99>`\n\n0 = unlimited",
     "limit_success": "Limit changed from **{old}** to **{new}**.",
     "limit_failed": "❌ Failed to change voice limit.",

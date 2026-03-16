@@ -340,6 +340,7 @@
     "rename_need_name": "{emoji} Du musst einen neuen Namen für den Sprachkanal angeben.",
     "rename_too_long": "{emoji} Name darf 100 Zeichen nicht überschreiten.",
     "rename_banned": "🚫 Dieser Name enthält verbotene Begriffe.",
+    "rename_discovery_blocked": "🚫 Dieser Name wird durch die Regeln der Discord-Server-Entdeckung blockiert. Bitte wähle einen anderen Namen.",
     "rename_rate_limited": "{emoji} {user}: Du hast das Discord-Limit für Kanal-Umbenennungen erreicht.\n-# Bitte warte `{time}`.",
     "rename_success": "Sprachkanal erfolgreich von `{old}` zu `{new}` umbenannt.",
     "rename_failed": "❌ Fehler beim Umbenennen des Kanals.",

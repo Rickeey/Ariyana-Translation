@@ -340,6 +340,7 @@
     "rename_need_name": "{emoji} Ses kanalı için yeni bir isim belirtmelisin.",
     "rename_too_long": "{emoji} İsim 100 karakteri geçemez.",
     "rename_banned": "🚫 Bu isim yasaklı kelimeler içeriyor.",
+    "rename_discovery_blocked": "🚫 Bu ad, Discord Sunucu Keşfi kuralları tarafından engelleniyor. Lütfen farklı bir ad seç.",
     "rename_rate_limited": "{emoji} {user}: Discord'un kanal ismi değiştirme sınırına takıldın.\n-# Lütfen `{time}` bekle.",
     "rename_success": "Ses kanalı ismi `{old}` yerine `{new}` olarak değiştirildi.",
     "rename_failed": "❌ İsim değiştirilemedi.",

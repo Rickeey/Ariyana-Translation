@@ -340,6 +340,7 @@
     "rename_need_name": "{emoji} خاصك تكتب الاسم الجديد ديال الروم الصوتي.",
     "rename_too_long": "{emoji} الاسم ما يقدرش يفوت 100 حرف.",
     "rename_banned": "🚫 هاد الاسم فيه كلمات ممنوعة.",
+    "rename_discovery_blocked": "🚫 هاد الاسم مرفوض بسبب قواعد Discord Server Discovery. اختار اسم آخر.",
     "rename_rate_limited": "{emoji} {user}: وصلتي لحدود Discord ديال تغيير الاسم.\n-# تسنى `{time}`.",
     "rename_success": "تبدل اسم الروم من `{old}` إلى `{new}` بنجاح.",
     "rename_failed": "❌ فشل تغيير اسم الروم.",
