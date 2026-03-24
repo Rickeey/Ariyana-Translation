@@ -413,5 +413,12 @@
   "mystats_user_not_found_tip": "Exemple : `{prefix}mystats @user` ou `{prefix}mystats id`",
   "vip_active_short": "VIP Actif",
   "vip_inactive_short": "VIP Inactif",
-  "vip_tip_buy": "Utilisez {prefix}vip pour voir les informations de votre abonnement."
+  "vip_tip_buy": "Utilisez {prefix}vip pour voir les informations de votre abonnement.",
+  "protect_on_success": "La protection vocale est **activée**. Seuls les administrateurs et managers autorisés peuvent modifier l'état de votre salon.",
+  "protect_off_success": "La protection vocale est **désactivée**. Les administrateurs et managers peuvent gérer votre salon normalement.",
+  "protect_already_on": "La protection vocale est déjà **activée**.",
+  "protect_already_off": "La protection vocale est déjà **désactivée**.",
+  "protect_no_permission": "Vous n'avez pas la permission de modifier la protection de ce salon.",
+  "protect_admin_abuse": "{user} a été déconnecté pour tentative d'abus sur un salon protégé.",
+  "protect_command_desc": "Activez ou désactivez la protection de votre salon vocal pour éviter les abus des administrateurs ou managers."
 }

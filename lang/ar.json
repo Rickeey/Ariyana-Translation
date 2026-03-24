@@ -413,5 +413,9 @@
   "mystats_user_not_found_tip": "مثال: `{prefix}mystats @user` أو `{prefix}mystats id`",
   "vip_active_short": "VIP مفعل",
   "vip_inactive_short": "VIP غير مفعل",
-  "vip_tip_buy": "استخدم {prefix}vip لعرض معلومات الاشتراك."
+  "vip_tip_buy": "استخدم {prefix}vip لعرض معلومات الاشتراك.",
+  "protect_prime_only": "⚠️ هذا الأمر متاح فقط لمستخدمي برايم.",
+  "protect_usage": "ℹ️ الاستخدام: protect on/off",
+  "protect_enabled": "✅ تم تفعيل حماية الصوت!",
+  "protect_disabled": "✅ تم تعطيل حماية الصوت!"
 }

@@ -409,5 +409,12 @@
   "mystats_user_not_found_tip": "Örnek: `{prefix}mystats @user` veya `{prefix}mystats id`",
   "vip_active_short": "VIP Aktif",
   "vip_inactive_short": "VIP Pasif",
-  "vip_tip_buy": "{prefix}vip komutunu kullanarak abonelik bilgilerinizi görüntüleyin."
+  "vip_tip_buy": "{prefix}vip komutunu kullanarak abonelik bilgilerinizi görüntüleyin.",
+  "protect_on_success": "Ses koruması **etkinleştirildi**. Sadece izinli yöneticiler ve yöneticiler kanal durumunu değiştirebilir.",
+  "protect_off_success": "Ses koruması **devre dışı bırakıldı**. Yöneticiler ve yöneticiler kanalınızı normal şekilde yönetebilir.",
+  "protect_already_on": "Ses koruması zaten **etkin**.",
+  "protect_already_off": "Ses koruması zaten **devre dışı**.",
+  "protect_no_permission": "Bu kanalın korumasını değiştirme izniniz yok.",
+  "protect_admin_abuse": "{user} korumalı bir kanalda kötüye kullanım girişiminde bulunduğu için bağlantısı kesildi.",
+  "protect_command_desc": "Yöneticilerin veya yöneticilerin kötüye kullanımını önlemek için ses kanalınızın korumasını açıp kapatın."
 }

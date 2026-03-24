@@ -413,5 +413,12 @@
   "mystats_user_not_found_tip": "Ejemplo: `{prefix}mystats @user` o `{prefix}mystats id`",
   "vip_active_short": "VIP Activo",
   "vip_inactive_short": "VIP Inactivo",
-  "vip_tip_buy": "Usa {prefix}vip para ver la información de tu suscripción."
+  "vip_tip_buy": "Usa {prefix}vip para ver la información de tu suscripción.",
+  "protect_on_success": "La protección de voz está **activada**. Solo los administradores y managers permitidos pueden cambiar el estado de tu canal.",
+  "protect_off_success": "La protección de voz está **desactivada**. Los administradores y managers pueden gestionar tu canal normalmente.",
+  "protect_already_on": "La protección de voz ya está **activada**.",
+  "protect_already_off": "La protección de voz ya está **desactivada**.",
+  "protect_no_permission": "No tienes permiso para cambiar la protección de este canal.",
+  "protect_admin_abuse": "{user} ha sido desconectado por intentar abusar de un canal protegido.",
+  "protect_command_desc": "Activa o desactiva la protección de tu canal de voz para evitar abusos de administradores o managers."
 }
