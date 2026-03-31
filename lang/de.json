@@ -413,9 +413,9 @@
   "mystats_user_not_found_tip": "Beispiel: `{prefix}mystats @user` oder `{prefix}mystats id`",
   "vip_active_short": "VIP Aktiv",
   "vip_inactive_short": "VIP Inaktiv",
-  "vip_tip_buy": "Verwende {prefix}vip, um deine Abonnement-Informationen zu sehen."
-    "vip_tip_buy": "Verwende {prefix}vip, um Abo-Infos anzuzeigen.",
-    "protect_prime_only": "⚠️ Nur Prime-Nutzer können diesen Befehl verwenden.",
-    "protect_usage": "ℹ️ Nutzung: protect on/off",
-    "protect_enabled": "✅ Sprachschutz aktiviert!",
-    "protect_disabled": "✅ Sprachschutz deaktiviert!"
+  "vip_tip_buy": "Verwende {prefix}vip, um deine Abonnement-Informationen zu sehen.",
+  "protect_prime_only": "⚠️ Nur Prime-Nutzer können diesen Befehl verwenden.",
+  "protect_usage": "ℹ️ Nutzung: protect on/off",
+  "protect_enabled": "✅ Sprachschutz aktiviert!",
+  "protect_disabled": "✅ Sprachschutz deaktiviert!"
+    }
