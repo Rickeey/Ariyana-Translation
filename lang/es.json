@@ -420,5 +420,9 @@
   "protect_already_off": "La protección de voz ya está **desactivada**.",
   "protect_no_permission": "No tienes permiso para cambiar la protección de este canal.",
   "protect_admin_abuse": "{user} ha sido desconectado por intentar abusar de un canal protegido.",
-  "protect_command_desc": "Activa o desactiva la protección de tu canal de voz para evitar abusos de administradores o managers."
+  "protect_command_desc": "Activa o desactiva la protección de tu canal de voz para evitar abusos de administradores o managers.",
+  "protect_prime_only": "⚠️ Solo los usuarios Prime pueden usar este comando.",
+  "protect_usage": "ℹ️ Uso: protect on/off",
+  "protect_enabled": "✅ ¡Protección de voz activada!",
+  "protect_disabled": "✅ ¡Protección de voz desactivada!"
 }

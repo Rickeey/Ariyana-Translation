@@ -420,5 +420,9 @@
   "protect_already_off": "La protection vocale est déjà **désactivée**.",
   "protect_no_permission": "Vous n'avez pas la permission de modifier la protection de ce salon.",
   "protect_admin_abuse": "{user} a été déconnecté pour tentative d'abus sur un salon protégé.",
-  "protect_command_desc": "Activez ou désactivez la protection de votre salon vocal pour éviter les abus des administrateurs ou managers."
+  "protect_command_desc": "Activez ou désactivez la protection de votre salon vocal pour éviter les abus des administrateurs ou managers.",
+  "protect_prime_only": "⚠️ Seuls les utilisateurs Prime peuvent utiliser cette commande.",
+  "protect_usage": "ℹ️ Utilisation : protect on/off",
+  "protect_enabled": "✅ Protection vocale activée !",
+  "protect_disabled": "✅ Protection vocale désactivée !"
 }

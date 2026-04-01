@@ -416,5 +416,13 @@
   "protect_already_off": "Ses koruması zaten **devre dışı**.",
   "protect_no_permission": "Bu kanalın korumasını değiştirme izniniz yok.",
   "protect_admin_abuse": "{user} korumalı bir kanalda kötüye kullanım girişiminde bulunduğu için bağlantısı kesildi.",
-  "protect_command_desc": "Yöneticilerin veya yöneticilerin kötüye kullanımını önlemek için ses kanalınızın korumasını açıp kapatın."
+  "protect_command_desc": "Yöneticilerin veya yöneticilerin kötüye kullanımını önlemek için ses kanalınızın korumasını açıp kapatın.",
+  "cmds_disable_usage": "## Komut Devre Dışı Bırak\nKullanım:\n\n> `.v commands disable <komutAdı>`",
+  "cmds_enable_usage": "## Komut Etkinleştir\nKullanım:\n\n> `.v commands enable <komutAdı>`",
+  "cmds_disable_failed": "{emoji} Komut devre dışı bırakılamadı.",
+  "cmds_enable_failed": "{emoji} Komut etkinleştirilemedi.",
+  "protect_prime_only": "⚠️ Bu komutu sadece Prime kullanıcılar kullanabilir.",
+  "protect_usage": "ℹ️ Kullanım: protect on/off",
+  "protect_enabled": "✅ Ses koruması etkinleştirildi!",
+  "protect_disabled": "✅ Ses koruması devre dışı bırakıldı!"
 }
