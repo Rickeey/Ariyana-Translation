@@ -417,5 +417,12 @@
   "protect_prime_only": "⚠️ Nur Prime-Nutzer können diesen Befehl verwenden.",
   "protect_usage": "ℹ️ Nutzung: protect on/off",
   "protect_enabled": "✅ Sprachschutz aktiviert!",
-  "protect_disabled": "✅ Sprachschutz deaktiviert!"
-    }
+  "protect_disabled": "✅ Sprachschutz deaktiviert!",
+  "protect_on_success": "Der Sprachschutz ist **aktiviert**. Nur erlaubte Administratoren und Manager können deinen Kanalstatus ändern.",
+  "protect_off_success": "Der Sprachschutz ist **deaktiviert**. Administratoren und Manager können deinen Kanal normal verwalten.",
+  "protect_already_on": "Der Sprachschutz ist bereits **aktiviert**.",
+  "protect_already_off": "Der Sprachschutz ist bereits **deaktiviert**.",
+  "protect_no_permission": "Du hast keine Berechtigung, den Schutz dieses Kanals zu ändern.",
+  "protect_admin_abuse": "{user} wurde getrennt, weil versucht wurde, einen geschützten Kanal zu missbrauchen.",
+  "protect_command_desc": "Aktiviere oder deaktiviere den Sprachschutz, um Missbrauch durch Administratoren oder Manager zu verhindern."
+}

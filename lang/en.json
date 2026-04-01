@@ -417,5 +417,12 @@
   "protect_prime_only": "⚠️ Only prime users can use this command.",
   "protect_usage": "ℹ️ Usage: protect on/off",
   "protect_enabled": "✅ Voice protection enabled!",
-  "protect_disabled": "✅ Voice protection disabled!"
+  "protect_disabled": "✅ Voice protection disabled!",
+  "protect_on_success": "Voice protection is **enabled**. Only allowed admins and managers can change your channel status.",
+  "protect_off_success": "Voice protection is **disabled**. Admins and managers can manage your channel normally.",
+  "protect_already_on": "Voice protection is already **enabled**.",
+  "protect_already_off": "Voice protection is already **disabled**.",
+  "protect_no_permission": "You don't have permission to change the protection of this channel.",
+  "protect_admin_abuse": "{user} has been disconnected for attempting to abuse a protected channel.",
+  "protect_command_desc": "Enable or disable your voice channel protection to prevent abuse by admins or managers."
 }
