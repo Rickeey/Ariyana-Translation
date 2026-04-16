@@ -424,5 +424,11 @@
   "protect_already_off": "Voice protection is already **disabled**.",
   "protect_no_permission": "You don't have permission to change the protection of this channel.",
   "protect_admin_abuse": "{user} has been disconnected for attempting to abuse a protected channel.",
-  "protect_command_desc": "Enable or disable your voice channel protection to prevent abuse by admins or managers."
+  "protect_command_desc": "Enable or disable your voice channel protection to prevent abuse by admins or managers.",
+  "voice_create_log_action": "Temp Voice Created",
+  "voice_create_log_created_by": "Created By",
+  "voice_create_log_created_at": "Created At",
+  "voice_delete_log_action": "Temp Voice Deleted",
+  "voice_delete_log_duration": "Duration",
+  "voice_delete_log_deleted_at": "Deleted At"
 }

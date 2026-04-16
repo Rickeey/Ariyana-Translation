@@ -424,5 +424,11 @@
   "protect_prime_only": "⚠️ Solo los usuarios Prime pueden usar este comando.",
   "protect_usage": "ℹ️ Uso: protect on/off",
   "protect_enabled": "✅ ¡Protección de voz activada!",
-  "protect_disabled": "✅ ¡Protección de voz desactivada!"
+  "protect_disabled": "✅ ¡Protección de voz desactivada!",
+  "voice_create_log_action": "Canal de voz temporal creado",
+  "voice_create_log_created_by": "Creado por",
+  "voice_create_log_created_at": "Creado el",
+  "voice_delete_log_action": "Canal de voz temporal eliminado",
+  "voice_delete_log_duration": "Duración",
+  "voice_delete_log_deleted_at": "Eliminado el"
 }

@@ -424,5 +424,11 @@
     "protect_already_off": "ボイス保護はすでに**無効**です。",
     "protect_no_permission": "このチャンネルの保護を変更する権限がありません。",
     "protect_admin_abuse": "{user} が保護されたチャンネルの不正使用を試みたため、切断されました。",
-    "protect_command_desc": "管理者またはマネージャーによる不正使用を防ぐために、ボイスチャンネルの保護を有効または無効にします。"
+    "protect_command_desc": "管理者またはマネージャーによる不正使用を防ぐために、ボイスチャンネルの保護を有効または無効にします。",
+    "voice_create_log_action": "一時ボイスチャンネルが作成されました",
+    "voice_create_log_created_by": "作成者",
+    "voice_create_log_created_at": "作成日時",
+    "voice_delete_log_action": "一時ボイスチャンネルが削除されました",
+    "voice_delete_log_duration": "通話時間",
+    "voice_delete_log_deleted_at": "削除日時"
 }

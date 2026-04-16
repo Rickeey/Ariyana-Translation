@@ -424,5 +424,11 @@
   "protect_prime_only": "⚠️ Bu komutu sadece Prime kullanıcılar kullanabilir.",
   "protect_usage": "ℹ️ Kullanım: protect on/off",
   "protect_enabled": "✅ Ses koruması etkinleştirildi!",
-  "protect_disabled": "✅ Ses koruması devre dışı bırakıldı!"
+  "protect_disabled": "✅ Ses koruması devre dışı bırakıldı!",
+  "voice_create_log_action": "Geçici Ses Kanalı Oluşturuldu",
+  "voice_create_log_created_by": "Oluşturan",
+  "voice_create_log_created_at": "Oluşturulma Tarihi",
+  "voice_delete_log_action": "Geçici Ses Kanalı Silindi",
+  "voice_delete_log_duration": "Süre",
+  "voice_delete_log_deleted_at": "Silinme Tarihi"
 }

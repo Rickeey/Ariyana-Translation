@@ -424,5 +424,11 @@
     "protect_already_off": "Ochrona głosu jest już **wyłączona**.",
     "protect_no_permission": "Nie masz uprawnień do zmiany ochrony tego kanału.",
     "protect_admin_abuse": "{user} został rozłączony za próbę nadużycia chronionego kanału.",
-    "protect_command_desc": "Włącz lub wyłącz ochronę swojego kanału głosowego, aby zapobiec nadużyciom ze strony administratorów lub managerów."
+    "protect_command_desc": "Włącz lub wyłącz ochronę swojego kanału głosowego, aby zapobiec nadużyciom ze strony administratorów lub managerów.",
+    "voice_create_log_action": "Utworzono tymczasowy kanał głosowy",
+    "voice_create_log_created_by": "Utworzony przez",
+    "voice_create_log_created_at": "Utworzono o",
+    "voice_delete_log_action": "Usunięto tymczasowy kanał głosowy",
+    "voice_delete_log_duration": "Czas trwania",
+    "voice_delete_log_deleted_at": "Usunięto o"
 }

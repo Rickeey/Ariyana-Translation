@@ -424,5 +424,11 @@
     "protect_already_off": "A proteção de voz já está **desativada**.",
     "protect_no_permission": "Você não tem permissão para alterar a proteção deste canal.",
     "protect_admin_abuse": "{user} foi desconectado por tentar abusar de um canal protegido.",
-    "protect_command_desc": "Ative ou desative a proteção do seu canal de voz para evitar abusos de administradores ou gerentes."
+    "protect_command_desc": "Ative ou desative a proteção do seu canal de voz para evitar abusos de administradores ou gerentes.",
+    "voice_create_log_action": "Canal de voz temporário criado",
+    "voice_create_log_created_by": "Criado por",
+    "voice_create_log_created_at": "Criado em",
+    "voice_delete_log_action": "Canal de voz temporário excluído",
+    "voice_delete_log_duration": "Duração",
+    "voice_delete_log_deleted_at": "Excluído em"
 }

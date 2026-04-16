@@ -424,5 +424,11 @@
   "protect_prime_only": "⚠️ Seuls les utilisateurs Prime peuvent utiliser cette commande.",
   "protect_usage": "ℹ️ Utilisation : protect on/off",
   "protect_enabled": "✅ Protection vocale activée !",
-  "protect_disabled": "✅ Protection vocale désactivée !"
+  "protect_disabled": "✅ Protection vocale désactivée !",
+  "voice_create_log_action": "Salon vocal temporaire créé",
+  "voice_create_log_created_by": "Créé par",
+  "voice_create_log_created_at": "Créé le",
+  "voice_delete_log_action": "Salon vocal temporaire supprimé",
+  "voice_delete_log_duration": "Durée",
+  "voice_delete_log_deleted_at": "Supprimé le"
 }

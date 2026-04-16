@@ -424,5 +424,11 @@
   "protect_already_off": "حماية الصوت **معطلة** بالفعل.",
   "protect_no_permission": "ليس لديك إذن لتغيير حماية هذه القناة.",
   "protect_admin_abuse": "{user} تم فصله لمحاولته إساءة استخدام قناة محمية.",
-  "protect_command_desc": "قم بتفعيل أو تعطيل حماية قناتك الصوتية لمنع إساءة الاستخدام من قبل المشرفين أو المديرين."
+  "protect_command_desc": "قم بتفعيل أو تعطيل حماية قناتك الصوتية لمنع إساءة الاستخدام من قبل المشرفين أو المديرين.",
+  "voice_create_log_action": "تم إنشاء روم مؤقت",
+  "voice_create_log_created_by": "تم الإنشاء بواسطة",
+  "voice_create_log_created_at": "وقت الإنشاء",
+  "voice_delete_log_action": "تم حذف الروم مؤقت",
+  "voice_delete_log_duration": "المدة",
+  "voice_delete_log_deleted_at": "وقت الحذف"
 }
