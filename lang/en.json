@@ -39,6 +39,7 @@
     "claim_error_generic": "{user}: Failed to claim voice ownership.",
     "permit_missing_user": "{emoji} You must mention a user or provide ID.",
     "permit_cannot_permit_bot": "{emoji} You cannot permit the bot.",
+    "permit_cannot_permit_jailed": "{emoji} You cannot permit a jailed member.",
     "permit_success": "Permission granted to {user}.",
     "permit_log_action": "User Permitted",
     "permit_log_user_field": "Permitted User",
