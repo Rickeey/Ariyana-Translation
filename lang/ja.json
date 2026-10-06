@@ -338,6 +338,7 @@
     "owner_current": "👑 {owner} がこのボイスチャンネルの現在の**オーナー**です。",
     "owner_error": "❌ チャンネルオーナーの取得中にエラーが発生しました。",
     "rename_need_name": "{emoji} ボイスチャンネルの新しい名前を指定する必要があります。",
+    "rename_invalid_name": "{emoji} その名前に表示可能な文字が含まれていません。通常の名前を選んでください。",
     "rename_too_long": "{emoji} 名前は 100 文字を超えることはできません。",
     "rename_banned": "🚫 この名前には禁止された単語が含まれています。",
     "rename_rate_limited": "{emoji} {user}: Discord のチャンネル改名レート制限に達しました。\n-# `{time}` お待ちください。",

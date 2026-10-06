@@ -338,6 +338,7 @@
     "owner_current": "👑 {owner} هو **مالك** هذا الروم الصوتي.",
     "owner_error": "❌ حدث خطأ أثناء جلب مالك الروم الصوتي.",
     "rename_need_name": "{emoji} خاصك تكتب الاسم الجديد ديال الروم الصوتي.",
+    "rename_invalid_name": "{emoji} هاد الاسم ما فيهش حروف ظاهرة. عافاك اختار اسم عادي.",
     "rename_too_long": "{emoji} الاسم ما يقدرش يفوت 100 حرف.",
     "rename_banned": "🚫 هاد الاسم فيه كلمات ممنوعة.",
     "rename_discovery_blocked": "🚫 هاد الاسم مرفوض بسبب قواعد Discord Server Discovery. اختار اسم آخر.",

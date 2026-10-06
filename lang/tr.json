@@ -338,6 +338,7 @@
     "owner_current": "👑 Bu kanalın mevcut **Sahibi**: {owner}.",
     "owner_error": "❌ Kanal sahibi bilgisi alınamadı.",
     "rename_need_name": "{emoji} Ses kanalı için yeni bir isim belirtmelisin.",
+    "rename_invalid_name": "{emoji} Bu adÚ görünür karakter yok. Lütfen normal bir ad seçin.",
     "rename_too_long": "{emoji} İsim 100 karakteri geçemez.",
     "rename_banned": "🚫 Bu isim yasaklı kelimeler içeriyor.",
     "rename_discovery_blocked": "🚫 Bu ad, Discord Sunucu Keşfi kuralları tarafından engelleniyor. Lütfen farklı bir ad seç.",

@@ -338,6 +338,7 @@
     "owner_current": "👑 {owner} est le **propriétaire actuel** de ce salon vocal.",
     "owner_error": "❌ Une erreur est survenue lors de la récupération du propriétaire.",
     "rename_need_name": "{emoji} Vous devez spécifier un nouveau nom pour le salon vocal.",
+    "rename_invalid_name": "{emoji} Ce nom ne contient aucun caractère visible. Veuillez choisir un nom normal.",
     "rename_too_long": "{emoji} Le nom ne peut pas dépasser 100 caractères.",
     "rename_banned": "🚫 Ce nom contient des mots interdits.",
     "rename_discovery_blocked": "🚫 Ce nom est bloqué par les règles de Découverte des serveurs Discord. Veuillez choisir un autre nom.",

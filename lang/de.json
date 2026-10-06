@@ -338,6 +338,7 @@
     "owner_current": "👑 {owner} ist der aktuelle **Besitzer** dieses Sprachkanals.",
     "owner_error": "❌ Fehler beim Abrufen des Kanalbesitzers.",
     "rename_need_name": "{emoji} Du musst einen neuen Namen für den Sprachkanal angeben.",
+    "rename_invalid_name": "{emoji} Dieser Name enthält keine sichtbaren Zeichen. Bitte wähle einen normalen Namen.",
     "rename_too_long": "{emoji} Name darf 100 Zeichen nicht überschreiten.",
     "rename_banned": "🚫 Dieser Name enthält verbotene Begriffe.",
     "rename_discovery_blocked": "🚫 Dieser Name wird durch die Regeln der Discord-Server-Entdeckung blockiert. Bitte wähle einen anderen Namen.",

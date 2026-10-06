@@ -338,6 +338,7 @@
     "owner_current": "👑 {owner} 是此语音频道的当前 **所有者**。",
     "owner_error": "❌ 获取频道所有者时出错。",
     "rename_need_name": "{emoji} 您需要为语音频道指定新名称。",
+    "rename_invalid_name": "{emoji} 该名称不包含任何可见字符。请选择一个正常的名称。",
     "rename_too_long": "{emoji} 名称不能超过 100 个字符。",
     "rename_banned": "🚫 此名称包含禁用词。",
     "rename_rate_limited": "{emoji} {user}: 您已达到 Discord 的频道重命名速率限制。\n-# 请等待 `{time}`。",

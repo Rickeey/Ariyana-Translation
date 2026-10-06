@@ -338,6 +338,7 @@
     "owner_current": "👑 {owner} è l'attuale **Proprietario** di questo canale vocale.",
     "owner_error": "❌ Si è verificato un errore nel recupero del proprietario del canale.",
     "rename_need_name": "{emoji} Devi specificare un nuovo nome per il canale vocale.",
+    "rename_invalid_name": "{emoji} Quel nome non contiene caratteri visibili. Scegli un nome normale.",
     "rename_too_long": "{emoji} Il nome non può superare i 100 caratteri.",
     "rename_banned": "🚫 Questo nome contiene parole vietate.",
     "rename_rate_limited": "{emoji} {user}: Hai raggiunto il limite di Discord per la rinomina dei canali.\n-# Per favore, attendi `{time}`.",
